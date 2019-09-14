@@ -2,3 +2,5 @@
 
 
 Hi, this is my first text file .
+
+Second line added to this .
